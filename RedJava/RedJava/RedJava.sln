@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedJava", "Assembly-CSharp.csproj", "{3727E05C-E944-D216-7455-3344C456BA27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedJava", "Assembly-CSharp-firstpass.csproj", "{0AE37421-281F-C04A-59C7-D5E4449C6E41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedJava", "Assembly-CSharp-Editor-firstpass.csproj", "{19C04585-B667-C3E0-0DA3-B0044F1258A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3727E05C-E944-D216-7455-3344C456BA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3727E05C-E944-D216-7455-3344C456BA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3727E05C-E944-D216-7455-3344C456BA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3727E05C-E944-D216-7455-3344C456BA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE37421-281F-C04A-59C7-D5E4449C6E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE37421-281F-C04A-59C7-D5E4449C6E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE37421-281F-C04A-59C7-D5E4449C6E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE37421-281F-C04A-59C7-D5E4449C6E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C04585-B667-C3E0-0DA3-B0044F1258A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C04585-B667-C3E0-0DA3-B0044F1258A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C04585-B667-C3E0-0DA3-B0044F1258A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C04585-B667-C3E0-0DA3-B0044F1258A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
